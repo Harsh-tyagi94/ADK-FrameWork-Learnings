@@ -1,8 +1,0 @@
-2026-04-27 15:54:09,962 - DEBUG - [server.py:162] - Initializing server 'multi-tool-calculator'
-2026-04-27 15:54:09,962 - DEBUG - [server.py:439] - Registering handler for ListToolsRequest
-2026-04-27 15:54:09,962 - DEBUG - [server.py:519] - Registering handler for CallToolRequest
-2026-04-27 15:54:09,963 - INFO - [server.py:137] - MCP Calculator Server launching...
-2026-04-27 15:54:09,963 - DEBUG - [selector_events.py:64] - Using selector: EpollSelector
-2026-04-27 15:54:10,017 - INFO - [server.py:122] - Starting MCP server via stdio
-2026-04-27 15:58:15,903 - INFO - [server.py:141] - Server stopped manually.
-2026-04-27 15:58:15,911 - INFO - [server.py:145] - MCP Server terminated.
