@@ -19,3 +19,16 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# database
+*.db
+
+# logs
+*.log
+
+# adk
+.adk/
