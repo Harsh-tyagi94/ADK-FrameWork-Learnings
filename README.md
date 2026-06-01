@@ -7,7 +7,7 @@ Demo and learning projects for Google AI/ML development.
 1. **Clone repository**
 
    ```bash
-   git clone <your-repo>
+   git clone https://github.com/Harsh-tyagi94/ADK-FrameWork-Learnings
    cd google_adk
    ```
 
@@ -32,8 +32,8 @@ Demo and learning projects for Google AI/ML development.
 
 5. **Run projects**
    ```bash
-   cd adk_learning
-   python your_script.py
+   cd first_agent
+   python agent.py
    ```
 
 ## API Keys Needed
