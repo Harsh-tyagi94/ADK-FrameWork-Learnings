@@ -7,7 +7,7 @@ Demo and learning projects for Google AI/ML development.
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/Harsh-tyagi94/ADK-FrameWork-Learnings
+   git clone https://github.com/Harsh-tyagi94/ADK-FrameWork-Learnings.git
    cd google_adk
    ```
 
